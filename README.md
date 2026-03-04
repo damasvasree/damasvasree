@@ -1,68 +1,70 @@
+<img align="center" alt="Girl Coding Banner" src="https://user-images.githubusercontent.com/74038190/212744275-2d9c1c55-7b0c-4c19-bb32-51ac3aaee47b.gif"/>
 
-<img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
+<h1 align="center">Hi 👋 I'm Damasvasree</h1>
 
-# Hi 👋 I'm Damasvasree
+<h3 align="center">AI Engineer | Full Stack Developer</h3>
 
-### AI Engineer | Full Stack Developer
-
-<img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
-
-I'm an AI Engineer and Full Stack Developer passionate about building intelligent systems and modern web applications.  
-I enjoy working on **Machine Learning, AI solutions, and scalable web platforms**.
-
-🌐 Portfolio:  
-https://damasvasree.vercel.app/
-
-📧 Connect with me:  
-www.linkedin.com/in/damasvasree
-
----
-
-# 🌐 Socials
-
-<p align="left">
-
-<a href="https://github.com/damasvasree-nagaraj">
-<img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/damasvasree">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Engineer;Full+Stack+Developer;Machine+Learning+Enthusiast;Building+Intelligent+Systems;Always+Learning+New+Technologies&center=true&width=500&height=50">
 </p>
 
 ---
 
-# 🛠️ Technical Skills
+# 🌐 Portfolio
 
-### 💻 Programming Languages
+🚀 Portfolio Website  
+https://damasvasree.vercel.app/
+
+💼 LinkedIn  
+https://www.linkedin.com/in/damasvasree
+
+💻 GitHub  
+https://github.com/damasvasree-nagaraj
+
+---
+
+# 👩‍💻 About Me
+
+✨ AI Engineer passionate about solving real-world problems  
+✨ Full Stack Developer building scalable web applications  
+✨ Interested in **Machine Learning, Data Science, and Cloud**  
+✨ Love creating intelligent and user-friendly systems  
+
+---
+
+# 🛠 Tech Stack
+
+### 💻 Programming
 <p>
 <img src="https://skillicons.dev/icons?i=python,java,javascript,c,cpp"/>
 </p>
 
-### 🤖 Machine Learning & Data Science
-- Pandas  
-- NumPy  
-- Scikit-Learn  
-- Supervised Learning  
-- Unsupervised Learning  
-- Data Preprocessing  
+### 🤖 AI / Machine Learning
+- Machine Learning  
+- Deep Learning  
+- NLP  
+- LLMs  
+- Prompt Engineering  
 
 ### 🌐 Web Development
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,javascript"/>
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,javascript"/>
 </p>
 
-### ☁️ Cloud & DevOps
+### ⚙ Backend
 <p>
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
 </p>
 
-### 🧰 Tools & Platforms
-- VS Code  
-- Google Colab  
-- Jupyter Notebook  
+### 🗄 Database
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb"/>
+</p>
+
+### ☁ Cloud & Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws,vscode"/>
+</p>
 
 ---
 
@@ -78,10 +80,22 @@ www.linkedin.com/in/damasvasree
 
 ---
 
-# 👀 Profile Views
+# 📈 Top Languages
 
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=damasvasree-nagaraj&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=damasvasree-nagaraj&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 👀 Profile Visitors
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=damasvasree-nagaraj&label=Profile%20views&color=0e75b6&style=flat"/>
+
 </p>
 
 ---
