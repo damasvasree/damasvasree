@@ -19,7 +19,7 @@ https://damasvasree.vercel.app/
 https://www.linkedin.com/in/damasvasree
 
 💻 GitHub  
-https://github.com/damasvasree-nagaraj
+https://github.com/damasvasree
 
 ---
 
