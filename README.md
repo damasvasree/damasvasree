@@ -33,7 +33,6 @@
 # 👩‍💻 About Me
 
 ✨ AI Engineer passionate about solving real-world problems
-
 ✨ Full Stack Developer building scalable web applications
 ✨ Interested in **Machine Learning, Deep Learning, NLP, LLMs, and Cloud**
 ✨ Love creating **intelligent and user-friendly systems**
